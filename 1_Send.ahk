@@ -1,6 +1,9 @@
-﻿$F2F3::
-while GetKeyState("F2F3","P")
-{
-    send,13356255201
-}
-return
+﻿$F9::13356255201
+
+
+;while GetKeyState("F2F3","P")
+;{
+;    send,13356255201
+;}
+;return
+
