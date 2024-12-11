@@ -12,7 +12,7 @@
 
 将ahk文件放入系统启动文件夹（X:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp，X为系统盘符）或用户启动文件夹（X:\Users\用户名\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup），可以达到开机自动运行的效果。可以在右下角的小窗里选中并退出脚本。
 
-![](C:\Users\yly20\Pictures\Screenshots\屏幕截图 2024-12-11 172125.png)
+
 
 ### Launch Date
 
