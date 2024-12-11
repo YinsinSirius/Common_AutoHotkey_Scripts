@@ -2,7 +2,15 @@
 
 参考文档：https://wyagd001.github.io/zh-cn/docs/Tutorial.htm
 
+
+
+*注意：ahk对大小写不敏感
+
+
+
 1.热键&热字串
+
+*注意，热键不能和热字串一样简写成一行，必须有send关键字
 
 ```
 ^j::
